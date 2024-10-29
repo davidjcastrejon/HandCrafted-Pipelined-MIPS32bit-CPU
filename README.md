@@ -14,7 +14,6 @@
 - [Data Path](#data-path)
 - [Dependencies](#dependencies)
 - [How to Run the Simulation](#how-to-run-the-simulation)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -117,8 +116,3 @@ This project was built using [Logisim Evolution version 3.9](https://github.com/
    ```
 
 2. **For Logisim**: Open `pipelined_mips.circ` in Logisim and start the simulation.
-
-
-## Acknowledgments
-
-This project was completed as part of my graduate course on Computer Architecture.
