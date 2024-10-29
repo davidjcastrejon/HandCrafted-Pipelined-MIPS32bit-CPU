@@ -105,7 +105,7 @@ The data path is designed to facilitate the smooth flow of data through each pip
 ## Dependencies
 
 To run this simulation, the following tools or software are required:
-- **Logisim** 
+- **Logisim**: 
 This project was built using [Logisim Evolution version 3.9](https://github.com/logisim-evolution/logisim-evolution). Logisim Evolution is a digital logic design and simulation tool, ideal for educational use and available for free. Please download and install version 3.9 from the linked repository to ensure compatibility.
 
 ## How to Run the Simulation
