@@ -1,5 +1,7 @@
 # Pipelined MIPS 32-Bit CPU
 
+![Pipelined MIPS CPU Diagram](images/CPU_Overview.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
