@@ -20,7 +20,7 @@
 
 ## Introduction
 
-This repository contains the implementation of a pipelined 32-bit MIPS CPU for my graduate Computer Architecture course. This CPU design mimics the MIPS architecture and implements a classic 5-stage instruction pipeline (IF, ID, EX, MEM, WB) to improve instruction throughput and demonstrate concepts like parallelism and pipelining in computer architecture. 
+This repository contains the implementation of a programmable pipelined 32-bit MIPS CPU for my graduate Computer Architecture course. This CPU design mimics the MIPS architecture and implements a classic 5-stage instruction pipeline (IF, ID, EX, MEM, WB) to improve instruction throughput and demonstrate concepts like parallelism and pipelining in computer architecture. 
 
 This project aims to provide a functional, cycle-accurate representation of how instructions are processed in a pipelined CPU, with added mechanisms to handle hazards and ensure data integrity.
 
